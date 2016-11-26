@@ -26,6 +26,7 @@
             />
 
         <EditText
+            android:id="@+id/editlevel2"
             android:layout_width="match_parent"
             android:layout_height="@android:dimen/app_icon_size"
             android:hint="عدد را تایپ کنید"
@@ -34,6 +35,7 @@
             />
 
         <Button
+          android:id="@+id/btnlevel2"
             android:layout_width="match_parent"
             android:layout_height="@android:dimen/app_icon_size"
             android:text="ارسال"
